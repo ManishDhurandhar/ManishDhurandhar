@@ -1,4 +1,9 @@
-## Hi there 👋
+##  Greetings👋! I’m **Manish kumar Dhurandhar**🧑‍💻  
+A begineer coder ,passionate about learning and creating.  
+Currently, I’ve built a foundation in **C**🌱, 🔭experimenting with **HTML/CSS** and 🚀 **diving into DSA in C++**.  
+My repositories showcase my early steps and growing skills in action.  
+I’m here to tackle challenges, learn from mistakes, and build solutions.  
+🌟 Stay tuned—bigger things are on the way!
 
 <!--
 **ManishDhurandhar/ManishDhurandhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
